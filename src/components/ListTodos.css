@@ -1,0 +1,21 @@
+.table{
+    width: 100%;
+}
+td {
+    text-align: left;
+    padding: 10px;
+  }
+  th {
+    background-color: #04AA6D;
+    color: white;
+    padding: 10px;
+    
+  }
+  th, td {
+    border-bottom: 1px solid #ddd;
+  } 
+  
+.btn_danger{
+    background-color: #ff0000;
+    padding: 10px;
+}  

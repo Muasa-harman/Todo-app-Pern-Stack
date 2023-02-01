@@ -1,0 +1,20 @@
+.form{
+    width: 100vh;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+.form_submit{
+    display: flex;
+   
+}
+.form_control{
+    padding: 10px;
+    
+}
+.form_control>input{
+    width: 999;
+}
+.btn-success{
+    background-color:  #04AA6D;
+}
