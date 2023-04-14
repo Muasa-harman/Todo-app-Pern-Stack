@@ -3,7 +3,7 @@ import EditTodo from './EditTodo'
 import './ListTodos.css'
 
 const ListTodos = () => {
-    const [todo,setTodo] = useState('')
+    const [todo,setTodo] = useState([])
     // delete todo
     const deleteTodo = async(id) =>{
         try {

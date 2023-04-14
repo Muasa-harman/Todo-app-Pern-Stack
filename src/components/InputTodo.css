@@ -6,10 +6,12 @@
 }
 .form_submit{
     display: flex;
+    border-radius: 20px;
    
 }
 .form_control{
     padding: 10px;
+   
     
 }
 .form_control>input{
